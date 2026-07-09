@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yprem1225/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/yprem1225/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
