@@ -50,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yprem1225/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/yprem1225/LeetCode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yprem1225/LeetCode/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/yprem1225/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
