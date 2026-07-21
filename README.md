@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/yprem1225/LeetCode/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/yprem1225/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yprem1225/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Recursion
