@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yprem1225/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yprem1225/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yprem1225/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3536-maximum-product-of-two-digits](https://github.com/yprem1225/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/yprem1225/LeetCode/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/yprem1225/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yprem1225/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3536-maximum-product-of-two-digits](https://github.com/yprem1225/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
