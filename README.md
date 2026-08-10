@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/yprem1225/LeetCode/tree/master/0912-sort-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yprem1225/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/yprem1225/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
