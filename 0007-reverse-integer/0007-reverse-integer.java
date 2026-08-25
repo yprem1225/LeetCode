@@ -1,5 +1,6 @@
 class Solution {
     public int reverse(int x) {
+        // try to understand this nicely
 
         int reverse = 0;
         int n = x;
