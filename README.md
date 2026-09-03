@@ -230,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yprem1225/LeetCode/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/yprem1225/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/yprem1225/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/yprem1225/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
