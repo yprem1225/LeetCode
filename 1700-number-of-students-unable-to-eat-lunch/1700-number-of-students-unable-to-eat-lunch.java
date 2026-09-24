@@ -31,7 +31,7 @@ class Solution {
 
         }
 
-        return count;
+        return q.size();
         
     }
 }
