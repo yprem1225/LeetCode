@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/yprem1225/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yprem1225/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/yprem1225/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/yprem1225/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/yprem1225/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yprem1225/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/yprem1225/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yprem1225/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/yprem1225/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/yprem1225/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
