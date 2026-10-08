@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yprem1225/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/yprem1225/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yprem1225/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/yprem1225/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/yprem1225/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yprem1225/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yprem1225/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yprem1225/LeetCode/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/yprem1225/LeetCode/tree/master/0344-reverse-string) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/yprem1225/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yprem1225/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/yprem1225/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yprem1225/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
